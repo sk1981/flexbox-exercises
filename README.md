@@ -13,7 +13,7 @@ These exercises are for testing out your knowledge of flex concepts, as such the
 
 ## Exercises
 * [Centering](/centering)
-* [Sticky Footer](/sticky-header)
+* [Sticky Footer](/sticky-footer)
 * [Navigation Bar](/navigation-bar)
 * [Flexible Width Grid](/stretching-grid)
 
