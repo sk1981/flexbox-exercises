@@ -2,7 +2,7 @@
 
 ##Description
 Creating a sticky footer has always been a tricky task. 
-Flexbox is perfect fit for such a usecase.
+Flexbox provides an elegant solution to this problem.
 
 Problem structure is present at : [Sticky Footer Problem](http://jsbin.com/gesaqo/1/edit?html,css,output)
 Here we have the structure of a simple site with a header element, some site content indicated by ***site-content*** class and a footer indicated by ***footer*** element.
