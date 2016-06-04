@@ -21,5 +21,5 @@ These exercises are for testing out your knowledge of flex concepts, as such the
 * [Leveling up with FlexBox](http://www.zomigi.com/blog/leveling-up-with-flexbox)
 * [Using CSS flexible boxes](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Using_CSS_flexible_boxes) by MDN
 * [Flexbox Reference](http://tympanus.net/codrops/css_reference/flexbox/) on Codrops
-* [Mixing old and new for Best Browser Support](https://css-tricks.com/using-flexbox/)[https://css-tricks.com/using-flexbox/) on CSS Tricks
+* [Mixing old and new for Best Browser Support](https://css-tricks.com/using-flexbox/) on CSS Tricks
 * [Solved by Flexbox](http://philipwalton.github.io/solved-by-flexbox/) demos by Philip Walton   
