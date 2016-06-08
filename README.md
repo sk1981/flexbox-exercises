@@ -12,10 +12,10 @@ These exercises are for testing out your knowledge of flex concepts, as such the
 * The solutions are expected to be very simple and don't have any fallback/support for older browsers.
 
 ## Exercises
-* [Centering](/centering)
-* [Sticky Footer](/sticky-footer)
-* [Navigation Bar](/navigation-bar)
-* [Flexible Width Grid](/stretching-grid)
+* [Centering](https://github.com/sk1981/flexbox-exercises/tree/master/centering)
+* [Sticky Footer](https://github.com/sk1981/flexbox-exercises/tree/master/sticky-footer)
+* [Navigation Bar](https://github.com/sk1981/flexbox-exercises/tree/master/navigation-bar)
+* [Flexible Width Grid](https://github.com/sk1981/flexbox-exercises/tree/master/stretching-grid)
 
 # Resources
 * [Leveling up with FlexBox](http://www.zomigi.com/blog/leveling-up-with-flexbox)
