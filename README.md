@@ -1,15 +1,12 @@
-# IN PROGRESS
 # Flexbox exercises
 
 A set of layout exercises which are expected to be solved using flexbox. 
-These exercises are aimed at those who have just learnt flexbox to test their understanding of the core concepts and the different layout approaches. 
-
-The main aim of this is for devs to get some hands on practice on different flexbox concepts
+These exercises are aimed at devs who have learnt flexbox and now want to test their understanding or get some hands-on experience of the core concepts and the different layout approaches. 
 
 ## Points to Note
-These exercises are for testing out your knowledge of flex concepts, as such they have been kept very simple
-* Exercises only use CSS and HTML
-* The solutions are expected to be very simple and don't have any fallback/support for older browsers.
+These exercises are for testing out knowledge of flex concepts, as such they have been kept very simple
+* Exercises only use CSS and HTML. CSS is for basic styling and applying flexbox properties and HTML for the page structure.
+* The solutions are expected to be very simple and don't have any fallback/support for non-compliant browsers (See resources for more inforamtion on this).
 
 ## Exercises
 * [Centering](https://github.com/sk1981/flexbox-exercises/tree/master/centering)
