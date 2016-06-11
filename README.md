@@ -13,6 +13,7 @@ These exercises are for testing out knowledge of flex concepts, as such they hav
 * [Sticky Footer](https://github.com/sk1981/flexbox-exercises/tree/master/sticky-footer)
 * [Navigation Bar](https://github.com/sk1981/flexbox-exercises/tree/master/navigation-bar)
 * [Flexible Width Grid](https://github.com/sk1981/flexbox-exercises/tree/master/stretching-grid)
+* [Holy Grail Layout](https://github.com/sk1981/flexbox-exercises/tree/master/holygrail-layout)
 
 # Resources
 * [Leveling up with FlexBox](http://www.zomigi.com/blog/leveling-up-with-flexbox)
