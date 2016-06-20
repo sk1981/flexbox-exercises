@@ -17,6 +17,14 @@ The page also contains a checkbox to expand the site content so that it's easy t
 ##Solution
 The solution can be found at [Sticky Footer Solution](http://jsbin.com/memokit/1/edit?html,css,output).
 
+The final page should resemble :-
+
+* When body content is less than viewport (footer is sticking to bottom of viewport)
+![Sticky Footer Collapsed](StickyFooterCollapsed.png)
+
+* When body content is more than viewport (footer is at the bottom of page, not viewport)
+![Sticky Footer Expanded](StickyFooterExpanded.png)
+
 #### Details
 
 Fix the minimum height of the site to be full viewport height so that footer can appear at the bottom of page. 

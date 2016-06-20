@@ -19,6 +19,14 @@ Aim of this exercise is to create the golden layout so that:-
 * The layout should be responsive and the sections should collapse into one column on smaller viewports. 
     * Assume breakpoint as 500px.
 
+The final page should resemble :-
+
+* For large screens 
+ ![Holy Grail Layout Desktop](HolyGrailLayoutDesktop.png)
+ 
+* For small screens
+ ![Holy Grail Layout Mobile](HolyGrailLayoutMobile.png) 
+
 ##Solution
 The solution can be found at [Holy Grail Layout Solution](http://jsbin.com/sevilu/1/edit?html,css,output).
 
