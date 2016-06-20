@@ -11,6 +11,7 @@ Here we have two containers - a parent (with class ***content***) and the child 
 The aim of this exercise is to center to the child container inside the parent container and then center the text inside the child container.
 
 The final page should resemble :-
+
 ![Centering Solution](CenteringImage.png)
 
 ##Solution

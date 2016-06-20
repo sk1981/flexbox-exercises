@@ -13,11 +13,12 @@ The grid should be created by changing the css so that:-
 * All the elements in a row have equal width.
 * Elements should stretch to fill up the available space.
 
+The final page should resemble :-
+
+ ![Stretching Grid](StretchingGrid.png)
+
 ##Solution
 The solution can be found at [Stretching Grid Solution](http://jsbin.com/punukar/2/edit?html,css,output).
-
-The final page should resemble :-
-![Stretching Grid](StretchingGrid.png)
 
 ### Details
 Ensure that the grid container can wrap it's element. This is required so that additional elements can move to a new line.

@@ -10,7 +10,7 @@ Problem structure is present at : [Holy Grail Layout Problem](http://jsbin.com/h
 
 Here we have a ***header*** and ***footer*** at the top and the bottom respectively.
 In-between we have a container, containing the main content (having ***content*** class)
- with side menu on the left (having ***side-menu*** class) and an info panel on the right (having ***side-info***).
+ with side menu on the left (having ***side-menu*** class) and an info panel on the right (having ***side-info*** class).
 
 Aim of this exercise is to create the holy grail layout so that:-
 * Main content has fluid width with fixed-width sidebars.
@@ -23,9 +23,12 @@ Aim of this exercise is to create the holy grail layout so that:-
 The final page should resemble :-
 
 * For large screens 
+ 
  ![Holy Grail Layout Desktop](HolyGrailLayoutDesktop.png)
+
  
 * For small screens
+
  ![Holy Grail Layout Mobile](HolyGrailLayoutMobile.png) 
 
 ##Solution

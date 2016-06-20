@@ -14,7 +14,8 @@ Aim of this exercise is to create the navigation bar using css so that:-
 * Icons after the search element should appended to the search field.
 
 The final page should resemble :-
-![Navigation Bar](NavigationBar.png)
+
+ ![Navigation Bar](NavigationBar.png)
 
 ##Solution
 The solution can be found at [Navigation Bar Solution](https://jsbin.com/qedohil/2/edit?html,css,output).
